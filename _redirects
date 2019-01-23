@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://brendan-actions.netlify.com/* http://ghactions.brendanoleary.com/:splat 301!
